@@ -1,0 +1,23 @@
+.joke-box{
+  /* Set flex box */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* General styling */
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-shadow: 3px 3px 3px gray;
+  /* Position */
+  height: 20vh;
+  width: 42vw;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%)
+}
+
+p{
+  font-size: 2em;
+  color: rgb(94, 93, 93);
+}

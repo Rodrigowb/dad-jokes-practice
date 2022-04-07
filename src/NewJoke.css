@@ -1,0 +1,16 @@
+.new-joke-button{
+  /* Position */
+  height: 10vh;
+  width: 20vw;
+  margin: auto;
+  position: absolute;
+  left: 40%;
+  top: 80%;
+  /* General styling */
+  background-color: rgb(94, 93, 93);
+  cursor: pointer;
+  color: white;
+  font-size: 2em;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px black;
+}
